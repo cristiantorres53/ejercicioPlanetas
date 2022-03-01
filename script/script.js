@@ -12,6 +12,6 @@ distancia.forEach(key => {
         console.log("se encontro la distancia")
     }
     else{
-        console.log("no se encontro la distancia")
+        console.log("no se encontro la distancia");
     }
 });
